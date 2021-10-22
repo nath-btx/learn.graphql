@@ -25,11 +25,11 @@ Features:
 :heavy_check_mark:  Delete a comment by It's ID
 
 
-## Start the project
+### Start the project
 
-* > clone repo
-* > npm install
-* > link postgres database in .env
-* > npx prisma generate
-* > npx prisma migrate dev
-* > npm start
+*  clone repo
+*  npm install
+*  link postgres database in .env
+*  npx prisma generate
+*  npx prisma migrate dev
+*  npm start
