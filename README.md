@@ -27,9 +27,9 @@ Features:
 
 ## Start the project
 
-> * clone repo
-> * npm install
-> * link postgres database in .env
-> * npx prisma generate
-> * npx prisma migrate dev
-> * npm start
+* > clone repo
+* > npm install
+* > link postgres database in .env
+* > npx prisma generate
+* > npx prisma migrate dev
+* > npm start
